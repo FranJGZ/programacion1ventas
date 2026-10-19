@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ambientes virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos temporales del sistema
+*.tmp
+*.log
+.DS_Store
+Thumbs.db

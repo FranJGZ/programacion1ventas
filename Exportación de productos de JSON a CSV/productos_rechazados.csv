@@ -1,0 +1,5 @@
+id;nombre;motivo
+7;Soporte para monitor;Dato faltante: el precio no puede ser nulo o vacío.
+8;Hub USB;Dato faltante: el stock no puede ser nulo o vacío.
+8;Hub USB duplicado;ID duplicado: el producto con ID 8 ya fue registrado previamente
+9;Producto sin usuario válido;Relación con usuario inexistente: el usuario con ID 999 no existe en el sistema
